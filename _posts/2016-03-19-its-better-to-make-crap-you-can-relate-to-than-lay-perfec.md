@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\"It's better to make crap you can relate to, than lay perfect plans you will never see\""
-datePublished: '2016-03-19T10:30:23.774Z'
-dateModified: '2016-03-19T10:03:27.729Z'
-title: ''
+datePublished: '2016-03-19T11:13:06.560Z'
+dateModified: '2016-03-19T10:30:23.807Z'
+title: "\"It's better to make crap you can relate to, than perfect plans you will never see\""
 author: []
 sourcePath: _posts/2016-03-19-its-better-to-make-crap-you-can-relate-to-than-lay-perfec.md
 published: true
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5244d5d4-96bf-431d-ad13-00c28e069b5e.jpg)
 
-"It's better to make crap you can relate to, than lay perfect plans you will never see"
+# "It's better to make crap you can relate to, than perfect plans you will never see"
