@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FutureNavigator]]></title>
         <description><![CDATA[FutureNavigator]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/futurenavigator/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 09:55:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 09:58:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/futurenavigator/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27a09d3d-3ea8-4c63-802a-008c2b44254f.jpg">]]></description>
-            <link>undefinedyou-cant-manufacture-a-miracle-but-you-can-organize-for-su/index.html</link>
+            <link>https://thegrid.ai/futurenavigator/you-cant-manufacture-a-miracle-but-you-can-organize-for-su/index.html</link>
             <guid isPermaLink="false">7552e4b5-6bae-4151-9a91-bdc5b1ce4ee0</guid>
-            <pubDate>Sat, 19 Mar 2016 09:54:23 GMT</pubDate>
+            <pubDate>Sat, 19 Mar 2016 09:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
