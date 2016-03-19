@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "You can't manufacture a miracle. But you can organize for success"
-datePublished: '2016-03-19T09:58:41.724Z'
-dateModified: '2016-03-19T09:54:31.568Z'
+datePublished: '2016-03-19T10:32:28.951Z'
+dateModified: '2016-03-19T09:58:51.086Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-19-you-cant-manufacture-a-miracle-but-you-can-organize-for-su.md
